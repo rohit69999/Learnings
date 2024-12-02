@@ -4,14 +4,13 @@ https://technoidentityy-my.sharepoint.com/:f:/g/personal/srinivasa_rohit_technoi
 https://technoidentityy-my.sharepoint.com/:w:/g/personal/srinivasa_rohit_technoidentity_com1/EYQaQ5avA6BJg4TBHu8W2bUBleXiGE0q-JLlq-fpvHpJ0Q?e=kxXe1E
 
 #A zip file containing the snapshot from the chemistry collection
-https://technoidentityy-my.sharepoint.com/:u:/g/personal/srinivasa_rohit_technoidentity_com1/EbY6OlfBxFxKl3Yher00S48BWz1A2yC2mB1lDJgvixqrAg?e=TjhMlG
+https://technoidentityy-my.sharepoint.com/:u:/g/personal/srinivasa_rohit_technoidentity_com1/EesCs__x71BKuakAmOK82TABomNZJs4dsmXRLDEHA23Ynw?e=j8VKQV
 The chemistry.csv file you generated
-
+https://technoidentityy-my.sharepoint.com/:x:/g/personal/srinivasa_rohit_technoidentity_com1/EYIiRIGrTVRHrfU-qC0lZJABSqE73NcBG4UP08T5dHXQ6w?e=DgcCpm
 #The output of curl 'http://localhost:6333/collections/chemistry' in a text file
 https://technoidentityy-my.sharepoint.com/:w:/g/personal/srinivasa_rohit_technoidentity_com1/EWmA8wW9ptJDgwoK2JCVNKABIINnYoRX_MBQlOa6lSJHUw?e=V3ctFT
 #A zip file containing the snapshot from the chemistry collection
-https://technoidentityy-my.sharepoint.com/:u:/g/personal/srinivasa_rohit_technoidentity_com1/EbY6OlfBxFxKl3Yher00S48BWz1A2yC2mB1lDJgvixqrAg?e=OZf9hj
-
+https://technoidentityy-my.sharepoint.com/:u:/g/personal/srinivasa_rohit_technoidentity_com1/EQS-w8pxqxlLtv1It8EcwHABLKjUsYfKbacPx5dwQkZ3Lg?e=8GJnt7
 #Use the API to ask a chemistry question and get an answer
 
 <img width="1440" alt="Screenshot 2024-11-28 at 4 03 15 PM" src="https://github.com/user-attachments/assets/e88f2ac7-db40-4ac7-9f7f-2bf153c35583">
