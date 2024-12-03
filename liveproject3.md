@@ -22,4 +22,6 @@ https://huggingface.co/rohit696969/Fine_tune_LLAMA3.8b
 The publicly accessible chatbot URL
 https://0xe6a58686fa088ca0e4b9200fecae26cd5d35de6a.us.gaianet.network
 
-A screenshot of the chatbot UI showing a relevant conversation
+A screenshot of the chatbot UI showing a relevant c<img width="1440" alt="Screenshot 2024-12-03 at 1 16 00 PM" src="https://github.com/user-attachments/assets/0eaa8472-bcb8-4841-b6cf-45b2d17f1cc6">
+onversation
+
